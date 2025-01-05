@@ -8,4 +8,3 @@ function basketballEquipment(yearlyTrainingPrice) {
 }
 
 
-basketballEquipment(365)
