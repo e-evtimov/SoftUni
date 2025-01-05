@@ -4,5 +4,3 @@ function depositCalculator(depositAmount, depositDuration, interestRate ) {
     let sum = depositAmount + interest;
     console.log(`${sum}`)
 }
-
-depositCalculator(2350, 6,  7)
